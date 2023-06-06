@@ -1,0 +1,72 @@
+[
+  {
+    "nome": "João Silva",
+    "endereco": "Rua das Flores, 123",
+    "nacionalidade": "Brasileiro",
+    "idade": 25,
+    "sexo": "Masculino"
+  },
+  {
+    "nome": "Maria Santos",
+    "endereco": "Avenida das Palmeiras, 456",
+    "nacionalidade": "Brasileira",
+    "idade": 32,
+    "sexo": "Feminino"
+  },
+  {
+    "nome": "Juan Hernandez",
+    "endereco": "Calle de las Rosas, 789",
+    "nacionalidade": "Mexicano",
+    "idade": 40,
+    "sexo": "Masculino"
+  },
+  {
+    "nome": "Elena Perez",
+    "endereco": "Calle de las Orquídeas, 234",
+    "nacionalidade": "Mexicana",
+    "idade": 29,
+    "sexo": "Feminino"
+  },
+  {
+    "nome": "John Smith",
+    "endereco": "123 Main St, Apt 456",
+    "nacionalidade": "Estadunidense",
+    "idade": 35,
+    "sexo": "Masculino"
+  },
+  {
+    "nome": "Emily Davis",
+    "endereco": "456 Elm St, Apt 789",
+    "nacionalidade": "Estadunidense",
+    "idade": 27,
+    "sexo": "Feminino"
+  },
+  {
+    "nome": "Luis Garcia",
+    "endereco": "Calle de los Olivos, 567",
+    "nacionalidade": "Mexicano",
+    "idade": 50,
+    "sexo": "Masculino"
+  },
+  {
+    "nome": "Ana Hernandez",
+    "endereco": "Calle de las Rosas, 789",
+    "nacionalidade": "Mexicana",
+    "idade": 22,
+    "sexo": "Feminino"
+  },
+  {
+    "nome": "Ricardo Santos",
+    "endereco": "Rua das Acácias, 345",
+    "nacionalidade": "Brasileiro",
+    "idade": 41,
+    "sexo": "Masculino"
+  },
+  {
+    "nome": "Camila Costa",
+    "endereco": "Avenida das Flores, 678",
+    "nacionalidade": "Brasileira",
+    "idade": 29,
+    "sexo": "Feminino"
+  }
+]
